@@ -40,3 +40,8 @@ To run the script correctly, follow these steps:
 (A console pops up with a text in Italian that means "Image not found. Try again in 5 seconds." Every 5s the script will search for one of the two images, which is the time to enter the game)
 8. Enter in "Special Cargo" section  
 The script will do the rest :)
+# REQUIREMENTS
+In case you need to edit and recompile the file, here is what you need:
+- cv2 (pip install opencv-python)
+- pyautogui (pip install pyautogui)
+- numpy
